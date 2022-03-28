@@ -805,7 +805,7 @@ h1
 						background-color: gold;
 		}
 
-		@media screen and (max-width: 680px) {.cont-img-c {margin-top: 3em;height: 100vh;}}
+		@media screen and (max-width: 680px) {.cont-img-c {margin-top: 3em;height: 30vh;}}
 
 		@keyframes upword
 		{
