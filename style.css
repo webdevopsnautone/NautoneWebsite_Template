@@ -66,8 +66,10 @@ body
 
 .sidenav a:hover{color: #f1f1f1;}
 
-@media screen and (max-width: 652px) {.sidenav a {font-size: 28px;}}
-@media screen and (min-width: 1250px) {.sidenav a {padding-bottom:10px;}}
+
+@media screen and (max-width: 652px) {.sidenav a {line-height:1.5em;padding-bottom: none;}}
+@media screen and (max-width: 1200px) {.sidenav a {line-height:1.4em;padding-bottom: none;}}
+@media screen and (max-width: 4000px) {.sidenav a {padding-bottom: 1em;}}
 
 .drop-lk
 {
